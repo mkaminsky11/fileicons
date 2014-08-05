@@ -67,3 +67,33 @@ Flat icons for files and documents. Made by <a href="http://mkaminsky11.github.i
 <img src="images/zip.png" height="100px">
 ```
 <img src="images/zip.png" height="100px">
+
+####Editor####
+```html
+<img src="images/editor.png" height="100px">
+```
+<img src="images/editor.png" height="100px">
+
+####Git####
+```html
+<img src="images/git.png" height="100px">
+```
+<img src="images/git.png" height="100px">
+
+####Git Folder####
+```html
+<img src="images/git_folder.png" height="100px">
+```
+<img src="images/git_folder.png" height="100px">
+
+####PHP####
+```html
+<img src="images/php.png" height="100px">
+```
+<img src="images/php.png" height="100px">
+
+####Ruby####
+```html
+<img src="images/ruby.png" height="100px">
+```
+<img src="images/ruby.png" height="100px">
