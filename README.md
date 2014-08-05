@@ -97,3 +97,15 @@ Flat icons for files and documents. Made by <a href="http://mkaminsky11.github.i
 <img src="images/ruby.png" height="100px">
 ```
 <img src="images/ruby.png" height="100px">
+
+####Key####
+```html
+<img src="images/key.png" height="100px">
+```
+<img src="images/key.png" height="100px">
+
+####Swift####
+```html
+<img src="images/swift.png" height="100px">
+```
+<img src="images/swift.png" height="100px">
