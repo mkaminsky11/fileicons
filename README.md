@@ -1,8 +1,6 @@
 #FileIcons#
 
 Flat icons for files and documents. Made by <a href="http://mkaminsky11.github.io">Michael Kaminsky</a>.
-<<<<<<< HEAD
-=======
 
 These icons were originally for the <a href="https://github.com/mkaminsky11/codeyourcloudmobile">Code Your Cloud mobile app</a>. However, I decided to release them on their own for others to use.
 
