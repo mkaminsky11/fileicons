@@ -1,6 +1,81 @@
 #FileIcons#
 
-Flat icons for files and documents. Made by <a href="http://mkaminsky11.github.io">Michael Kaminsky</a>
+Flat icons for files and documents. Made by <a href="http://mkaminsky11.github.io">Michael Kaminsky</a>.
+
+These icons were originally for the <a href="https://github.com/mkaminsky11/codeyourcloudmobile">Code Your Cloud mobile app</a>. However, I decided to release them on their own for others to use.
+
+####Arduino (new)####
+```html
+<img src="images/arduino.png" height="100px">
+```
+<img src="images/arduino.png" height="100px">
+
+####Swift (updated)####
+```html
+<img src="images/swift.png" height="100px">
+```
+<img src="images/swift.png" height="100px">
+
+####Python (new)####
+```html
+<img src="images/python.png" height="100px">
+```
+<img src="images/python.png" height="100px">
+
+####Haskell (new)####
+```html
+<img src="images/haskell.png" height="100px">
+```
+<img src="images/haskell.png" height="100px">
+
+####C++ (new)####
+```html
+<img src="images/cpp.png" height="100px">
+```
+<img src="images/cpp.png" height="100px">
+
+####C (new)####
+```html
+<img src="images/c.png" height="100px">
+```
+<img src="images/c.png" height="100px">
+
+####Server (new)####
+```html
+<img src="images/server.png" height="100px">
+```
+<img src="images/server.png" height="100px">
+
+####Dart (new)####
+```html
+<img src="images/dart.png" height="100px">
+```
+<img src="images/dart.png" height="100px">
+
+
+####Git####
+```html
+<img src="images/git.png" height="100px">
+```
+<img src="images/git.png" height="100px">
+
+####Git Folder####
+```html
+<img src="images/git_folder.png" height="100px">
+```
+<img src="images/git_folder.png" height="100px">
+
+####PHP####
+```html
+<img src="images/php.png" height="100px">
+```
+<img src="images/php.png" height="100px">
+
+####Ruby####
+```html
+<img src="images/ruby.png" height="100px">
+```
+<img src="images/ruby.png" height="100px">
 
 ####CoffeeScript####
 ```html
@@ -74,38 +149,8 @@ Flat icons for files and documents. Made by <a href="http://mkaminsky11.github.i
 ```
 <img src="images/editor.png" height="100px">
 
-####Git####
-```html
-<img src="images/git.png" height="100px">
-```
-<img src="images/git.png" height="100px">
-
-####Git Folder####
-```html
-<img src="images/git_folder.png" height="100px">
-```
-<img src="images/git_folder.png" height="100px">
-
-####PHP####
-```html
-<img src="images/php.png" height="100px">
-```
-<img src="images/php.png" height="100px">
-
-####Ruby####
-```html
-<img src="images/ruby.png" height="100px">
-```
-<img src="images/ruby.png" height="100px">
-
 ####Key####
 ```html
 <img src="images/key.png" height="100px">
 ```
 <img src="images/key.png" height="100px">
-
-####Swift####
-```html
-<img src="images/swift.png" height="100px">
-```
-<img src="images/swift.png" height="100px">
