@@ -100,8 +100,6 @@ Most of these icons are hand-made, but a couple (such as the Ruby file) use the 
 ```
 <img src="images/dart.png" height="100px">
 
-
-<<<<<<< HEAD
 ####Git####
 ```html
 <img src="images/git.png" height="100px">
