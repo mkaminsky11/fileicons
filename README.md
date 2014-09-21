@@ -4,49 +4,61 @@ These icons were originally for the <a href="https://github.com/mkaminsky11/code
 
 Most of these icons are hand-made, but a couple (such as the Ruby file) use the actual logos.
 
+####Book (new)####
+```html
+<img src="images/book.png" height="100px">
+```
+<img src="images/book.png" height="100px">
+
+####Printer (new)####
+```html
+<img src="images/printer.png" height="100px">
+```
+<img src="images/printer.png" height="100px">
+
+####SpreadSheet####
+```html
+<img src="images/sheet.png" height="100px">
+```
+<img src="images/sheet.png" height="100px">
+
 ####Presentation (updated)####
 ```html
 <img src="images/pres.png" height="100px">
 ```
 <img src="images/pres.png" height="100px">
 
-####SpreadSheet (updated)####
-```html
-<img src="images/sheet.png" height="100px">
-```
-<img src="images/sheet.png" height="100px">
-
-####Code File (new)####
+####Code File####
 ```html
 <img src="images/code.png" height="100px">
 ```
 <img src="images/code.png" height="100px">
 
-####Document (updated)####
+####Document####
 ```html
 <img src="images/doc.png" height="100px">
 ```
 <img src="images/doc.png" height="100px">
 
-####Javascript (updated)####
+####Javascript####
 ```html
 <img src="images/js.png" height="100px">
 ```
 <img src="images/js.png" height="100px">
 
-####CSS (updated)####
+####CSS####
 ```html
 <img src="images/css.png" height="100px">
 ```
 <img src="images/css.png" height="100px">
 
-####HTML (updated)####
+####HTML####
 ```html
 <img src="images/html.png" height="100px">
 ```
 <img src="images/html.png" height="100px">
 
-####Java (new)####
+####Java####
 ```html
 <img src="images/java.png" height="100px">
 ```
